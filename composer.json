@@ -24,9 +24,9 @@
         "humanmade/s3-uploads": "~1",
         "wpackagist-plugin/jetpack": "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
-        "wpackagist-plugin/rss-post-importer":"2.5.2",
-        "wpackagist-plugin/cyr2lat":"4.2.3",
-        "wpackagist-plugin/cybersyn":"6.16",
+        "wpackagist-plugin/rss-post-importer": "~1",
+        "wpackagist-plugin/cyr2lat": "~1",
+        "wpackagist-plugin/cybersyn": "~1",
 
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "^1.0"
