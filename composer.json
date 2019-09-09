@@ -26,7 +26,7 @@
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
         "wpackagist-plugin/rss-post-importer": "~1",
         "wpackagist-plugin/cyr2lat": "~1",
-        "wpackagist-plugin/cybersyn": "~1",
+        "wpackagist-plugin/cybersyn": "*",
 
         "predis/predis": "~1.0",
         "wp-cli/wp-cli": "^1.0"
